@@ -22,8 +22,9 @@ title: My daily bread
 email: codeforbread.pnn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My daily thought.
+domain: "codeforbread-pnn.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://codeforbread.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://codeforbread-pnn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  codeforbread-pnn
 
