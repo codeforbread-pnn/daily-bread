@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2021-10-05 17:33:47 +0700
+categories: welcome
+---
+Welcome to my site for weekly dose of my struggle coding for bread.
